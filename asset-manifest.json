@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Riot-games_api/static/css/main.a0763bf6.css",
-    "main.js": "/Riot-games_api/static/js/main.5433ea86.js",
+    "main.js": "/Riot-games_api/static/js/main.3546c31a.js",
     "static/media/77.png": "/Riot-games_api/static/media/77.9c8181c9e7dc96329f5c.png",
     "static/media/bg3.png": "/Riot-games_api/static/media/bg3.dc0a4a55a72b98b13d99.png",
     "index.html": "/Riot-games_api/index.html",
     "main.a0763bf6.css.map": "/Riot-games_api/static/css/main.a0763bf6.css.map",
-    "main.5433ea86.js.map": "/Riot-games_api/static/js/main.5433ea86.js.map"
+    "main.3546c31a.js.map": "/Riot-games_api/static/js/main.3546c31a.js.map"
   },
   "entrypoints": [
     "static/css/main.a0763bf6.css",
-    "static/js/main.5433ea86.js"
+    "static/js/main.3546c31a.js"
   ]
 }
