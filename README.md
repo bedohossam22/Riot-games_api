@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## OverView
+This Project clearly demontsrates my ability to integrate with third party websies Using Thunderdbird for Api testing 
+Api key and URL can be found on Leage of legends Developer gate :- https://developer.riotgames.com/docs/lol
 
 In the project directory, you can run:
 
