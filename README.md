@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## OverView
 This Project clearly demontsrates my ability to integrate with third party websies Using Thunderdbird for Api testing 
 Api key and URL can be found on Leage of legends Developer gate :- https://developer.riotgames.com/docs/lol
-
+The success of this project hinges on strategically utilizing console.log at each critical step for effective debugging and tracking
 In the project directory, you can run:
 
 ### `npm start`
